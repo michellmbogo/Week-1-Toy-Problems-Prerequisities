@@ -46,4 +46,4 @@ function calculateNetSalary(basicSalary, benefits) {
     };
 }
 
-calculateNetSalary(50000)
+calculateNetSalary()
