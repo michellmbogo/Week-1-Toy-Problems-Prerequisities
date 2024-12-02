@@ -46,4 +46,4 @@ function calculateNetSalary(basicSalary, benefits) {
     };
 }
 
-calculateNetSalary()
+console.log(calculateNetSalary(100000, 0)) // The values can change this is just an example of the basic salary and benefits
