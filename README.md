@@ -79,7 +79,7 @@ Name : Michell Mbogo
 Email : michellwambui.m@gmail.com
 
 
-Project Link : 
+Project Link : https://github.com/michellmbogo/Week-1-Toy-Problems-Prerequisities
 
 
 
