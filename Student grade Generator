@@ -32,4 +32,4 @@ function studentGrade() {
 }
 
 // Call the function
-studentGrade()
+studentGrade();
