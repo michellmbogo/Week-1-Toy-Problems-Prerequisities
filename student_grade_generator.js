@@ -34,4 +34,3 @@ function getStudentGrade() {
 }
 // Call the function to execute
 getStudentGrade();
-
