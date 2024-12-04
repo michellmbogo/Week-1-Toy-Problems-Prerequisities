@@ -15,6 +15,6 @@ function checkSpeed(speed) {
         }
     }
 }
-const carSpeed = 150; 
+const carSpeed = 180; 
 checkSpeed(carSpeed);
 
